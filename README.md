@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/38221678?v=4" width="120" alt="Flavio Giacchetti's GitHub avatar" />
-
 # Hi, I'm Flavio Giacchetti
 
 **Independent Software Developer · Founder of [FG Labs](https://fglabs.dev)**
